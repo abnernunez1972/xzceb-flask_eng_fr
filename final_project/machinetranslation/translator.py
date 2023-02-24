@@ -1,4 +1,4 @@
-# import json
+import json
 import os
 import ibm_watson
 from ibm_cloud_sdk_core.authenticators import IAMAuthenticator
